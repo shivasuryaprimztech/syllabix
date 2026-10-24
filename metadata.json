@@ -1,0 +1,8 @@
+{
+  "name": "syllabix",
+  "description": "College semester syllabus organizer, individual progress tracker, shared study resources hub, and important examination topic finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
